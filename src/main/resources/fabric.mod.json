@@ -5,7 +5,7 @@
 	"name": "Astro Client",
 	"description": "Lightweight FPS Client for Minecraft",
 	"authors": [
-		"AstroPlayz"
+		"com.example.AstroClient"
 	],
 	"license": "MIT",
 	"environment": "*",
